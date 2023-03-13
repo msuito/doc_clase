@@ -1,0 +1,11 @@
+h1,h2{
+    color:blue;
+}
+h3{
+    color:red
+}
+body{
+    background-image: url('img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
